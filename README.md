@@ -4,3 +4,5 @@ Para correr el programa de machine learning se debe correr ```evaluate.py```, si
 
 
 codigo original inspirado de: [smart pooling](https://github.com/BCV-Uniandes/Smart_Pooling_Scientific_Reports)
+
+Para la parte de optimización son los jupyter notebook, archivos de extensión ```.ipynb```
